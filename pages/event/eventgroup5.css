@@ -1,0 +1,52 @@
+.gambargroup5{
+   width: 100%;
+}
+
+.judulgroup5{
+    margin-bottom: 1.5rem;
+    font-weight: bolder;
+
+}
+
+.judul2group5{
+    background-color: blue;
+    opacity: 0.8;
+    color: white;
+    border-radius: 16px;
+}
+
+.deskripsigroup5{
+    font-weight: light;
+}
+.deskripsigroup5 p{
+margin-top: -1rem;
+}
+
+.card{
+    width: 27rem;
+}
+
+.eventkampusgroup5{
+    margin-bottom: 6rem;
+}
+
+#eventherosgroup5 {
+        background-color: #F7F7F8;
+        padding: 32px 72px;
+        gap: 256px;
+}
+
+#kegiatangroup5 {
+    background-color: #F7F7F8;
+    padding: 32px 72px;
+
+}
+
+.lihatgroup5{
+    gap: 75%;
+}
+
+.lihat2group5{
+    text-decoration: none;
+    color: blue;
+}

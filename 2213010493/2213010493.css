@@ -1,0 +1,215 @@
+/* Awal Bagian 1 */
+.stylekon_493{
+    margin: auto;
+    width: 80%;
+}
+.bagian1_493 p{
+    margin: auto;
+    width: 80%;
+    color: white;
+}
+
+select{
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    font-size: medium;
+    font-weight: 700;
+    color: #0099ff;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    width: 20%;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.bagian1_493 h1{
+    font-weight: 900;
+    font-size: 3rem;
+    color: white;
+}
+.bagian1_493 h5{
+    background-color: white;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin: auto;
+    margin-bottom: 0.5rem;
+    border-radius: 5px;
+    width: 31%;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #0099ff;
+}
+
+.bagian1_493{
+    margin-bottom: -1px;
+    background-color: #0099ff;
+    padding-top: 2rem;
+}
+/* Akhir Bagian 1 */
+
+/* Awal Bagian 2 */
+.fess_493 h5{
+    color: #0099ff;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.how_493 h3{
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.how_493 .bungkus_493{
+    margin-bottom: 2rem;
+}
+.how_493 .bungkus_493 .atas_493{
+    margin-bottom: 0.5rem;
+}
+
+.how_493 .bungkus_493 .atas_493 h2{
+    text-align: center;
+    
+}
+
+.sembunyi_493{
+    display: none;
+}
+
+.muncul_493{
+    display: block;
+}
+/* Akhir Bagian 2 */
+
+/* Awal Bagian 3 */
+.peringatan_493{
+    text-align: center;
+    background-color: #0099ff;
+    margin-top: -1px;
+    padding-bottom: 2rem;
+    font-size: 80%;
+}
+.peringatan_493 .text1_493{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    margin-bottom: 0.5rem;
+}
+.peringatan_493 .text2_493{
+    font-size: 2rem;
+    background-color: rgb(255, 255, 255);
+    color: #0099ff;
+    font-weight: 900;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+/* .mulai_493{
+    margin: auto;
+    text-decoration: none;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    width: fit-content;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    border: solid white 2px;
+    border-radius: 10px;
+}
+
+.mulai_493:hover{
+    color: #0099ff;
+    background-color: white;
+    cursor: pointer;
+}
+.bingung_493{
+    margin: auto;
+    text-decoration: none;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    width: fit-content;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    border: solid white 2px;
+    border-radius: 10px;
+}
+
+.bingung_493:hover{
+    color: #0099ff;
+    background-color: white;
+    cursor: pointer;
+} */
+/* Akhir Bagian 3 */
+
+/* Awal Menfess */
+.kirim_493{
+    margin: auto;
+    text-decoration: none;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    width: fit-content;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #0099ff;
+    border: solid #0099ff 2px;
+    border-radius: 10px;
+}
+
+.kirim_493:hover{
+    color: white;
+    background-color: #0099ff;
+    cursor: pointer;
+}
+.menfess_493{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    flex-direction: column;
+    text-align: center;
+}
+input{
+    margin: auto;
+    margin-bottom: 1rem;
+    border: solid #0099ff 2px;
+    border-radius: 10px;
+    box-shadow: 5px 8px 50px rgba(89, 80, 80, 0.512);
+}
+textarea{
+    margin-bottom: 1rem;
+    border: solid #0099ff 2px;
+    border-radius: 10px;
+    box-shadow: 5px 8px 50px rgba(89, 80, 80, 0.512);
+}
+label{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #0099ff;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.kiriman_493 .pesan_493 h6{
+    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+    font-size: x-small;
+    width: fit-content;
+    border-radius: 3px;
+    color: white;
+    background-color: #0099ff;
+}
+.kiriman_493 .pesan_493{
+    width: 80%;
+    margin: auto;
+    color: #0099ff;
+    border: solid #0099ff 2px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 50px rgba(89, 80, 80, 0.512);
+    font-weight: 500;
+    padding: 1rem 1rem 1rem 1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+/* Akhir Menfess */
+
+/* body{
+    background-color: yellow;
+} */

@@ -1,0 +1,12 @@
+.tombol_group5{
+    padding: 1rem;
+    background-color: blue;
+    width: fit-content;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.biru_group5{
+    background-color: #0099ff;
+}

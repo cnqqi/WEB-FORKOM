@@ -1,0 +1,104 @@
+body {
+    font-family: helvetica;
+}
+
+.h5group5{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#heros1group5{
+    background: url(asset/imgberanda.png) no-repeat center center fixed; 
+    background-size: cover;
+    height: 700px;
+    padding: 32px 72px;
+    padding-top: 200px;
+}
+
+
+
+.wrappergroup5{
+    box-sizing: content-box;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    padding-left: 40px ;
+    padding-right: 40px;
+}
+.wordsgroup5{
+    overflow: hidden;
+}
+
+span{
+    display: block;
+    height: 100%;
+    color: white;
+    animation: spin_words 8s infinite;
+}
+
+@keyframes spin_words{
+    10%{
+        transform: translateY(-112%);
+    }
+    25%{
+        transform: translateY(-100%);
+    }
+    35%{
+        transform: translateY(-212%);
+    }
+    50%{
+        transform: translateY(-200%);
+    }
+    60%{
+        transform: translateY(-312%);
+    }
+    75%{
+        transform: translateY(-300%);
+    }
+    85%{
+        transform: translateY(-412%);
+    }
+    100%{
+        transform: translateY(-400%);
+    }
+}
+
+#deskripsigroup5 {
+    padding: 32px 72px;
+    gap: 64px;
+}
+
+#kolaborasigroup5 {
+    background-color: #F7F7F8;
+    padding: 32px 72px;
+    gap: 256px;
+}
+
+#kontakgroup5 {
+    padding: 32px 72px;
+    gap: auto;
+}
+
+.pkontakgroup5{
+    color: blue;
+}
+
+.ptimgroup5 {
+    color: blue;
+}
+
+#timgroup5{
+    padding: 32px 72px;
+    background-color: #F7F7F8;
+}
+
+
+.fotogroup5{
+    gap: 64px;
+}
+
+.fotokitagroup5{
+    width: 400px;
+    height: 400px;
+}

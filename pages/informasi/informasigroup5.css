@@ -1,0 +1,118 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#awalgroup5{
+    background-color: blue;
+    opacity: 0.8;
+    color: white;
+    padding: 32px 72px;
+}
+
+/* Awal Judul */
+
+
+.judulgroup5 h1{
+    font-weight: bolder;
+    font-size: 3rem;
+}
+/* Akhir Judul */
+
+/* Awal Pelayanan */
+
+
+.info1group5 h1{
+    font-weight: 600;
+}
+
+.infogroup5{
+    width: 70%;
+}
+
+.judulinfogroup5{
+    display: flex;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 60%;
+}
+
+.judulinfogroup5 h3{
+    margin: auto;
+    font-weight: 500;
+}
+/* Akhir Pelayanan */
+
+/* Awal Jadwal */
+.jadwalgroup5{
+    padding: 32px 72px;
+    margin: auto;
+    background-color: #F7F7F8;
+}
+
+.jadwalgroup5 .judulgroup5{
+    font-size: 1rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+    color: blue;
+}
+
+.jadwalgroup5 .deskripsigroup5{
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+}
+.jadwalgroup5 p{
+    margin-bottom: 2rem;
+}
+
+/* Akhir Jadwal */
+
+/* Awal nomor */
+.nomorgroup5{
+    margin-bottom: 3rem;
+}
+
+.nomorgroup5 .tablegroup5 #icongroup5{
+    width: 15px;
+    margin-right: 5px;
+}
+
+.nomorgroup5 .judulgroup5{
+    font-weight: bolder;
+}
+/* Akhir nomor */
+
+/* Awal Artikel */
+.artikelgroup5{
+    padding: 32px 72px;
+    background-color: #F7F7F8;
+}
+
+.artikelgroup5 .judulgroup5 h3{
+    font-size: 1rem;
+    font-weight: 900;
+    margin-bottom: 0.5rem;
+    color:blue;
+}
+
+.artikelgroup5 .judulgroup5 h1{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.artikelgroup5 .card{
+    width: 100%;
+}
+.artikelgroup5 .card h5{
+    font-weight: 700;
+}
+.artikelgroup5 .card .deskripsi .waktugroup5{
+    font-weight: bolder;
+}
+
+/* Akhir Artikel */
+
+#kontakdosengroup5{
+    padding: 32px 72px;
+}
